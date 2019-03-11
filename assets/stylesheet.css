@@ -1,0 +1,29 @@
+h1{
+    color : #000000;
+}
+.name{
+    color: blueviolet;
+    text-align: center;
+}
+
+#anjay{
+    color: aqua;    
+}
+
+form{
+    color: rgb(123, 36, 173);
+}
+
+div{
+    margin: 3px;
+    padding: 3px;
+    size: 100%;
+    text-align: center;
+    background-color: blueviolet;
+    color: aliceblue;
+    text-decoration: none;
+}
+
+div,ul,a{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
